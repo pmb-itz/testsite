@@ -54,7 +54,7 @@ font-size: 70px !important;
 		display: block !important;
 	}
 
-	.home-3rd{
+	.index-3rd{
 		padding: 20px 0px 190px 0px !important;
 	}
 }
@@ -181,7 +181,7 @@ font-size: 70px !important;
 		left: 97px !important;
 	}
 
-	.home-3rd{
+	.index-3rd{
 		padding: 20px 0px 190px 0px !important;
 	}
 
@@ -265,7 +265,7 @@ font-size: 70px !important;
         margin-left: -78px !important;
 	}
 
-	.home-3rd{
+	.index-3rd{
 		padding: 20px 0px 240px 0px !important;
 	}
 	.wb-heroHeader-content{
@@ -498,7 +498,7 @@ body [id*="accordion-"].accordion-style2 .panel-title a{
     margin-top: 30px;
 }
 
-.home-3rd{
+.index-3rd{
 	padding: 120px 0px 220px 0px;
 }
 
@@ -1156,7 +1156,7 @@ opacity: 1;
 .wb-page .absolute {
 	position: absolute;
 }
-/*** Home Page CSS ***/
+/*** index Page CSS ***/
 /*============== wb-Header Start ==============*/
 .wb-header {
 	padding: 3px 0;
